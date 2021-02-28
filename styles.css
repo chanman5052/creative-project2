@@ -1,0 +1,50 @@
+h2{
+    text-align:center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+form {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+footer {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+#menu {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+
+.artistResults {
+    display: inline-flex;
+    justify-content: flex-start;
+    width:33.3%;
+    align-content: center;
+    margin-bottom: 5px;
+
+}
+
+.videoResults {
+    text-align: center;
+}
+
+.tv{
+    text-align: center;
+}
+body{
+    background-color: lightgray;
+}
